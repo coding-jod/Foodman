@@ -1,4 +1,6 @@
-Namaste! This is Pratham Agarwal's github repo for a Food Ordering Website. It's not the normal static frontend it is using real time data fetched from Firebase using it's API and real time database.
+Namaste!
+The app is hosted on : https://foodman-seven.vercel.app/ 
+This is Pratham Agarwal's github repo for a Food Ordering Website. It's not the normal static frontend it is using real time data fetched from Firebase using it's API and real time database.
 This was a Practice Project and was created using React JS hooks, along with custom JSX to build a visually appealing frontend for the client. 
 I have implemented the following features in this app:
   1. We enter directly onto the home page where we have which are fetched from Firebase's real time database.
